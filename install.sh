@@ -11,6 +11,8 @@ function activateCommands () {
    sudo cp getsh /usr/bin/
    chmod +x allcommands && chmod 777 allcommands
    sudo cp allcommands /usr/bin/
+   chmod +x kernelpanic && chmod 777 kernelpanic
+   sudo cp kernelpanic /usr/bin/
 }
 
 activateCommands
