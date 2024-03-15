@@ -6,7 +6,9 @@ function install () {
 
 function activateCommands () {
    clear
-   cd commands
+   cd command
+   chmod +x getsh && chmod 777 getsh
+   sudo cp getsh /usr/bin/
    
 }
 
