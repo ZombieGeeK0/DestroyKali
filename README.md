@@ -7,3 +7,8 @@
 
     [+] Utilización:
     - Malware con wget (obtiene y ejecuta un virus en bash, puedes cambiar el enlace de la descarga): wgetsh
+    - Comandos letales de Linux: allcommands
+
+    [+] Contacto:
+    [+] Email: 3xpl018.contact@proton.me
+    [+] Discord: qwfkr
