@@ -9,7 +9,8 @@ function activateCommands () {
    cd command
    chmod +x getsh && chmod 777 getsh
    sudo cp getsh /usr/bin/
-   
+   chmod +x allcommands && chmod 777 allcommands
+   sudo cp allcommands /usr/bin/
 }
 
 activateCommands
