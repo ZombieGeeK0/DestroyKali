@@ -1,4 +1,4 @@
-function panic () {
+function panic() {
   sudo (echo c3VkbyBlY2hvIDEgPiAvcHJvYy9zeXMva2VybmVsL3BhbmljOw== | base64 -d)
 }
 
